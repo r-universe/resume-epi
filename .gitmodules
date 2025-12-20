@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "MetaRVM"]
+	path = MetaRVM
+	url = https://github.com/resume-epi/metarvm
